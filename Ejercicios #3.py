@@ -159,7 +159,6 @@ else:
 #Definir la contraseña
 ContraseñaCorect = "N33ger"
 
-
 while True: #Bucle infinito para simular un do-While
     #Pedir la contraseña al usuario
     contraseña = input("Ingrese la contraseña: ")
