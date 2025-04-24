@@ -15,9 +15,9 @@ if len(divs) > 0:
     print("Primer div:", divs[0].text.strip())
 
 if len(divs) > 1:
-    # Imprimir el texto del primer div
-    print("Primer div:", divs[1].text.strip())
+    # Imprimir el texto del 2do div
+    print("2do div:", divs[1].text.strip())
 
 if len(divs) > 2:
-    # Imprimir el texto del primer div
-    print("Primer div:", divs[2].text.strip())
+    # Imprimir el texto del 3er div
+    print("3r div:", divs[2].text.strip())
